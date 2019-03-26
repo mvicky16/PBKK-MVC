@@ -8,5 +8,5 @@
 * Setelah mensubmit Form, maka dialihkan ke halaman playerview
 
 Screenshoot :
-  ![ss1](Screenshot01.png)
-  ![ss2](Screenshot02.png)
+  * ![ss1](Screenshot01.png)
+  * ![ss2](Screenshot02.png)
